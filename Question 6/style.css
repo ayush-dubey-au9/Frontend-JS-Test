@@ -1,0 +1,13 @@
+.title{
+    background-color: black;
+    height: 100px;
+    width: 100px;
+  }
+  
+  .parent{
+    height: 100vh;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
